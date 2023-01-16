@@ -185,6 +185,16 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 1601693967802005805, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
   m_PrefabInstance: {fileID: 1323487656}
   m_PrefabAsset: {fileID: 0}
+--- !u!23 &356097781 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 1010647043953872369, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
+  m_PrefabInstance: {fileID: 1323487656}
+  m_PrefabAsset: {fileID: 0}
+--- !u!33 &356097782 stripped
+MeshFilter:
+  m_CorrespondingSourceObject: {fileID: 6717685412902514952, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
+  m_PrefabInstance: {fileID: 1323487656}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1309146831
 GameObject:
   m_ObjectHideFlags: 0
@@ -455,6 +465,18 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2333152634366561086, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 4.6151
+      objectReference: {fileID: 0}
+    - target: {fileID: 2333152634366561086, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 4.6151
+      objectReference: {fileID: 0}
+    - target: {fileID: 2333152634366561086, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 4.6151
+      objectReference: {fileID: 0}
+    - target: {fileID: 2333152634366561086, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4.235484
       objectReference: {fileID: 0}
@@ -497,26 +519,26 @@ PrefabInstance:
     - target: {fileID: 3571767707691462230, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
       propertyPath: material
       value: 
-      objectReference: {fileID: 2100000, guid: d337fc5282607644ebb2f3575513265e, type: 2}
+      objectReference: {fileID: 2100000, guid: ea66d3ba3c5ac7d498707e8c9e54524f, type: 2}
     - target: {fileID: 3571767707691462230, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
       propertyPath: shoreFade
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3571767707691462230, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
       propertyPath: colorDepth
-      value: 0.84
+      value: 2.59
       objectReference: {fileID: 0}
     - target: {fileID: 3571767707691462230, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
       propertyPath: meshFilter
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 356097782}
     - target: {fileID: 3571767707691462230, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
       propertyPath: shoreBlend
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3571767707691462230, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
       propertyPath: shoreDepth
-      value: 0.74
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3571767707691462230, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
       propertyPath: waveLength
@@ -524,31 +546,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3571767707691462230, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
       propertyPath: deepColor.b
-      value: 0.50980073
+      value: 0.6784314
       objectReference: {fileID: 0}
     - target: {fileID: 3571767707691462230, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
       propertyPath: deepColor.g
-      value: 0.28622344
+      value: 0.42745084
       objectReference: {fileID: 0}
     - target: {fileID: 3571767707691462230, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
       propertyPath: deepColor.r
-      value: 0.01176471
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3571767707691462230, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
       propertyPath: meshRenderer
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 356097781}
     - target: {fileID: 3571767707691462230, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
       propertyPath: shoreColor.b
-      value: 0.30190974
+      value: 0.30196065
       objectReference: {fileID: 0}
     - target: {fileID: 3571767707691462230, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
       propertyPath: waveSteepness
-      value: 0.122
+      value: 0.055
       objectReference: {fileID: 0}
     - target: {fileID: 3571767707691462230, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
       propertyPath: waveVisuals.x
-      value: 0.122
+      value: 0.055
       objectReference: {fileID: 0}
     - target: {fileID: 3571767707691462230, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
       propertyPath: waveVisuals.y
@@ -556,19 +578,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3571767707691462230, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
       propertyPath: horizonColor.g
-      value: 0.22739995
+      value: 0.22745085
       objectReference: {fileID: 0}
     - target: {fileID: 3571767707691462230, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
       propertyPath: shallowColor.a
-      value: 0.5019608
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3571767707691462230, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
       propertyPath: shallowColor.b
-      value: 0.62352943
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3571767707691462230, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
       propertyPath: shallowColor.g
-      value: 0.7725491
+      value: 0.6313726
       objectReference: {fileID: 0}
     - target: {fileID: 3571767707691462230, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
       propertyPath: normalsStrength
@@ -576,7 +598,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3571767707691462230, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
       propertyPath: enableSurfaceFoam
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3571767707691462230, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
       propertyPath: reflectionFresnel
@@ -604,7 +626,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3571767707691462230, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
       propertyPath: refractionStrength
-      value: 0.022
+      value: 0.017
       objectReference: {fileID: 0}
     - target: {fileID: 3571767707691462230, guid: b1b6a4a4712a0364bbffc21e45491ba2, type: 3}
       propertyPath: colorGradient.ctime0
