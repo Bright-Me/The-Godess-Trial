@@ -94,7 +94,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 223
-    height: 479
+    height: 412
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 16}
@@ -118,9 +118,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 479
+    y: 412
     width: 1078
-    height: 156
+    height: 223
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 14}
@@ -245,7 +245,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1078
-    height: 479
+    height: 412
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
@@ -268,7 +268,7 @@ MonoBehaviour:
     x: 223
     y: 0
     width: 855
-    height: 479
+    height: 412
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 17}
@@ -3207,9 +3207,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 552
+    y: 485
     width: 1077
-    height: 135
+    height: 202
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -3227,23 +3227,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/materials/hub/torch textures
+    - "Assets/materials/textures trifor\xE7a"
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/materials/hub/torch textures
+  - "Assets/materials/textures trifor\xE7a"
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\m_puj\OneDrive\Documents\GitHub\The-Godess-Trial\grupo
     1 blockout
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 480}
-    m_SelectedIDs: 767f0000
-    m_LastClickedID: 32630
-    m_ExpandedIDs: 00000000a67c0000a87c0000aa7c0000ac7c000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 410}
+    m_SelectedIDs: 5c7f0000
+    m_LastClickedID: 32604
+    m_ExpandedIDs: 00000000247d0000267d0000287d00002a7d000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -3271,7 +3271,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a67c0000a87c0000aa7c0000ac7c0000
+    m_ExpandedIDs: 00000000247d0000267d0000287d00002a7d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -3391,17 +3391,17 @@ MonoBehaviour:
     x: 0
     y: 73
     width: 222
-    height: 458
+    height: 391
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: a286feff
-      m_LastClickedID: -96606
-      m_ExpandedIDs: 245cffff04f1ffffeef9ffff
+      scrollPos: {x: 0, y: 198}
+      m_SelectedIDs: aaecfeff
+      m_LastClickedID: -70486
+      m_ExpandedIDs: 4e07ffffd4faffffba6b0000386c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -3448,7 +3448,7 @@ MonoBehaviour:
     x: 223
     y: 73
     width: 853
-    height: 458
+    height: 391
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -3650,9 +3650,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -18.1488, y: 43.887096, z: -8.411634}
+    m_Target: {x: -3.8711681, y: 26.886036, z: -3.3866568}
     speed: 2
-    m_Value: {x: -18.1488, y: 43.887096, z: -8.411634}
+    m_Value: {x: -3.8711681, y: 26.886036, z: -3.3866568}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -3699,13 +3699,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.0043172967, y: 0.44165224, z: -0.01031737, w: -0.8980282}
+    m_Target: {x: 0.15740868, y: -0.82502896, z: 0.43692112, w: 0.32458326}
     speed: 2
-    m_Value: {x: -0.0029686817, y: 0.44130632, z: -0.009645247, w: -0.89729977}
+    m_Value: {x: 0.15661968, y: -0.8248122, z: 0.4367846, w: 0.3230701}
   m_Size:
-    m_Target: 2.4943502
+    m_Target: 23.356243
     speed: 2
-    m_Value: 2.4943502
+    m_Value: 23.356243
   m_Ortho:
     m_Target: 1
     speed: 2
