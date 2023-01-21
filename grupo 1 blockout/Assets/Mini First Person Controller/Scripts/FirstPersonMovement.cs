@@ -41,4 +41,11 @@ public class FirstPersonMovement : MonoBehaviour
         // Apply movement.
         rigidbody.velocity = transform.rotation * new Vector3(targetVelocity.x, rigidbody.velocity.y, targetVelocity.y);
     }
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("TriforceSound"))
+        {
+            other.gameObject.GetComponent<AudioSource>().Play();
+        }
+    }
 }
